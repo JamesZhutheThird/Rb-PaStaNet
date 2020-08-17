@@ -10,10 +10,10 @@ Existing Human-Object Interaction (HOI) Detection approaches have achieved great
 * [Qingquan Bao](https://github.com/QingquanBao), Shanghai Jiaotong University
 
 ### Paper
-Our paper is available [here](https://arxiv.org/pdf/2008.06285.pdf). It will be presented on IMVIP 2020.
+Our paper is available on [arXiv](https://arxiv.org/pdf/2008.06285.pdf). It will be presented on IMVIP 2020.
 
 ### Code 
-Our source code is available [here](https://github.com/JamesZhutheThird/Rb-PaStaNet)
+Our source code is available on [Github](https://github.com/JamesZhutheThird/Rb-PaStaNet)
 
 ### Getting Started
 
